@@ -1,7 +1,7 @@
 # evalGittuto
 Projet rÃ©alisÃ© dans le cadre de l'Ã©valuation Git
 01 Nom:FLIELLER
-01 Prénom:
+01 Prénom:Jean-Baptiste
 02 Nom:PERROTIN
 02 Prénom:
 03 Nom:MOULINAS
